@@ -1,6 +1,6 @@
 (function() {
 	
-	// Get a regular interval for drawing to the screen
+	// How to get a consistent interval for drawing to the screen
 	window.requestAnimFrame = (function (callback) {
 		return window.requestAnimationFrame || 
 					window.webkitRequestAnimationFrame ||
@@ -98,7 +98,7 @@
 		};
 	}
 
-	// Thsi gets the position of a touch in reference to the canvas
+	// This gets the position of a touch in reference to the canvas
 	function getTouchPos(canvasDom, touchEvent) {
 		var rect = canvasDom.getBoundingClientRect();
 		return {
@@ -107,7 +107,7 @@
 		};
 	}
 
-	// Draw to the canvas
+	// This will draw to the canvas
 	function renderCanvas() {
 		if (drawing) {
 			ctx.moveTo(lastPos.x, lastPos.y);
@@ -121,7 +121,7 @@
 		canvas.width = canvas.width;
 	}
 
-	// Allow for animation
+	// This will allow for animation
 	(function drawLoop () {
 		requestAnimFrame(drawLoop);
 		renderCanvas();
