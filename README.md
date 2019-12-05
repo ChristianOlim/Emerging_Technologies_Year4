@@ -36,9 +36,9 @@ the flask Python package and is also worth 40%.
 
 
 
-### WHAT I USED AND INSTALLED TO MAKE THIS PROJECT
+## WHAT I USED AND INSTALLED TO MAKE THIS PROJECT
 
 + [Visual Studio Code](https://code.visualstudio.com/)
-+ [Python with packages (Anaconda)](https://www.https://www.anaconda.com/distribution/)
++ [Python with packages (Anaconda)](https://www.anaconda.com/distribution/)
 + [Command Line (Cmder)](https://cmder.net/)
 + *Jupyter* - There are two options to run this which are __jupyter notebook__ and __jupyter lab__. You can use either of these on the Cmder command line but out of personal preference I used jupyter lab as I found it easier to use.
