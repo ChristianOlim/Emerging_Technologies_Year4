@@ -1,8 +1,8 @@
-#EMERGING TECHNOLOGIES ASSIGNMENT 2019 - YEAR 4
-##CHRISTIAN OLIM - G00334621
+# EMERGING TECHNOLOGIES ASSIGNMENT 2019 - YEAR 4
+## CHRISTIAN OLIM - G00334621
 
 
-##QUESTION
+## QUESTION
 
 This assessment concerns the well-known MNIST dataset and the Python packages
 keras, flask, and jupyter. The project is worth 100% of your marks for this
@@ -30,7 +30,7 @@ for recognition to the model you have trained above. This should be done using
 the flask Python package and is also worth 40%
 
 
-##WHAT I USED AND INSTALLED TO MAKE THIS PROJECT
+## WHAT I USED AND INSTALLED TO MAKE THIS PROJECT
 
 ..+ [Visual Studio Code](https://code.visualstudio.com/)
 ..+ [Python with packages (Anaconda)](https://www.https://www.anaconda.com/distribution/)
