@@ -53,3 +53,5 @@ the flask Python package and is also worth 40%.
 <li>https://towardsdatascience.com/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d</li>
 <li>https://stackoverflow.com/questions/33664651/import-input-data-mnist-tensorflow-not-working</li>
 <li>https://www.youtube.com/watch?v=f6Bf3gl4hWY</li>
+<li>https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/</li>
+<li>https://keras.io/getting-started/sequential-model-guide/</li>
