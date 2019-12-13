@@ -56,3 +56,6 @@ the flask Python package and is also worth 40%.
 <li>https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/</li>
 <li>https://keras.io/getting-started/sequential-model-guide/</li>
 <li>https://stackoverflow.com/questions/55496289/how-to-fix-attributeerror-module-tensorflow-has-no-attribute-get-default-gr</li>
+<li>https://towardsdatascience.com/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d</li>
+<li>https://medium.com/coinmonks/handwritten-digit-prediction-using-convolutional-neural-networks-in-tensorflow-with-keras-and-live-5ebddf46dc8</li>
+<li>https://medium.com/x8-the-ai-community/first-steps-building-and-deploying-a-keras-model-40381d9037db</li>
