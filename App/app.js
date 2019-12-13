@@ -13,7 +13,7 @@
 	})();
 
 	// Set up the canvas
-	var canvas = document.getElementById("sig-canvas");
+	var canvas = document.getElementById("canvas");
 	var ctx = canvas.getContext("2d");
 	ctx.strokeStyle = "#ff4b28";
 	ctx.lineWith = 2;
@@ -117,6 +117,7 @@
 		}
 	}
 
+	// Clear button functionality
 	function clearCanvas() {
 		canvas.width = canvas.width;
 	}
