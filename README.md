@@ -55,3 +55,4 @@ the flask Python package and is also worth 40%.
 <li>https://www.youtube.com/watch?v=f6Bf3gl4hWY</li>
 <li>https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/</li>
 <li>https://keras.io/getting-started/sequential-model-guide/</li>
+<li>https://stackoverflow.com/questions/55496289/how-to-fix-attributeerror-module-tensorflow-has-no-attribute-get-default-gr</li>
