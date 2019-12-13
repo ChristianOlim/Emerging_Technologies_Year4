@@ -44,4 +44,12 @@ the flask Python package and is also worth 40%.
 + *Jupyter* - There are two options to run this which are __jupyter notebook__ and __jupyter lab__. You can use either of these on the Cmder command line but out of personal preference I used jupyter lab as I found it easier to use.
 
 
-
+## REFERENCES:
+<li>https://web.microsoftstream.com/video/8e965392-ccc2-4faa-a755-8d86de6a91d6</li>
+<li>https://www.youtube.com/watch?v=wQ8BIBpya2k&t=1004s</li>
+<li>http://yann.lecun.com/exdb/mnist/</li>
+<li>https://nbviewer.jupyter.org/github/ianmcloughlin/jupyter-teaching-notebooks/blob/master/mnist.ipynb</li>
+<li>http://yann.lecun.com/exdb/mnist/</li>
+<li>https://towardsdatascience.com/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d</li>
+<li>https://stackoverflow.com/questions/33664651/import-input-data-mnist-tensorflow-not-working</li>
+<li>https://www.youtube.com/watch?v=f6Bf3gl4hWY</li>
